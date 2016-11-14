@@ -1,4 +1,4 @@
-/* clase de prueba*/
+/*prueba de nuevo archivo*/
 
  public class Person
     {
@@ -23,5 +23,5 @@
             name = newName;
         }
     }
-        static void Main()
-            // Call the constructor that has no parameters.
+
+/*prueba de nuevo archivo*/
